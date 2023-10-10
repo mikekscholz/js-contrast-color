@@ -5,17 +5,11 @@
   "author": "Buster Collings <busterc@gmail.com> (https://about.me/buster)",
   "repository": "mikekscholz/js-contrast-color",
   "version": "1.0.1",
-  "main": "dist/contrastColor.js",
+  "main": "lib/index.js",
   "files": [
     "dist",
     "lib"
   ],
-  "scripts": {
-    "build": "parcel build lib/index.js"
-  },
-  "devDependencies": {
-    "parcel": "^2.9.3"
-  },
   "keywords": [
     "accessibility",
     "background",
